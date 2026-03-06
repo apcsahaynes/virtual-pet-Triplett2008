@@ -9,9 +9,9 @@ class Button {
   private float x, y, w, h;
 
   // ---- Colors - feel free to change these! ----
-  private color baseColor     = color(180, 160, 220);
+  private color baseColor     = color(18, 260, 320);
   private color hoverColor    = color(200, 180, 240);
-  private color textColor     = color(255);
+  private color textColor     = color(100);
 
   Button(String label, float x, float y, float w, float h) {
     this.label = label;
